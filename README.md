@@ -11,9 +11,7 @@
 
 ## 👨‍💻 À propos
 
-Actuellement **Lead Backend Developer** chez SoftVodooz, j'ai acquis une solide expérience dans la **conception de systèmes robustes**, la **mise en place d’infrastructures DevOps**, et l’**automatisation intelligente** de processus métier.
-
-🎯 Objectif 2025 : Alternance M2 dans une entreprise tech ambitieuse pour continuer à innover dans le cloud, le backend distribué et l'IA appliquée.
+Actuellement **Alternant en IA Generative** chez PIMAN Group, j'ai une solide expérience dans la **conception de systèmes robustes**, la **mise en place d’infrastructures DevOps**, et l’**automatisation intelligente** de processus métier.
 
 💡 Passionné par l’open source, la scalabilité, l’architecture microservices, les bots intelligents, les serveurs auto-hébergés et tout ce qui rend la tech **plus efficace, plus libre et plus intelligente**.
 
@@ -83,9 +81,9 @@ Autres :
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manickto&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manickto&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manickto&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3l4un1ck&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3l4un1ck&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3l4un1ck&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -95,7 +93,7 @@ Autres :
 - 📧 elaurichenickson@gmail.com  
 - 🌐 https://manickto.com  
 - 📍 Basé à Lyon, France (ouvert à la mobilité)  
-- 🔎 Disponible pour des missions freelance ou une alternance Master 2
+- 🔎 Disponible pour des missions freelance
 
 ---
 
