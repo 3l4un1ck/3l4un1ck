@@ -84,6 +84,11 @@ Autres :
   <img src="https://github-readme-stats.vercel.app/api?username=3l4un1ck&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3l4un1ck&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3l4un1ck&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3l4un1ck&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=3l4un1ck&show_icons=true&theme=tokyonight&hide=contribs,issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3l4un1ck&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3l4un1ck&show_icons=true&theme=tokyonight&hide=contribs,issues" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3l4un1ck&theme=tokyonight&layout=donut" />
 </p>
 
 ---
